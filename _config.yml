@@ -1,9 +1,13 @@
 title: Jihoon Kim # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Android, iOS(Amateur) Developer - Native & Flutter
+  Android, iOS(Amateur) Developer
+  <br>
+  Native & Flutter
   <br><br>
-  Program Language - Java, Kotlin, Swift, Dart
+  Program Language
+  <br>
+  Java, Kotlin, Swift, Dart
   <br><br>
 # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
